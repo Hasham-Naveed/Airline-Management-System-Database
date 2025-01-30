@@ -8,7 +8,7 @@
 
 •	requirements.txt file is used to install libraries used for faker code.
 
-                  INSTALLATION!
+                  INSTALLATION
 
                   
 •	Run airline-basic-tables.sql file in MS SQL Server after opening it.
@@ -20,6 +20,6 @@
 
 Before running “airline-faker.py” replace “Server” and “Database” name to your system server name and database name.
 
-[Untitled](https://github.com/user-attachments/assets/2475947f-9394-4642-8aee-32037e689c37)
+![Untitled](https://github.com/user-attachments/assets/2475947f-9394-4642-8aee-32037e689c37)
  
 •	Run "airline-faker.py" in cmd but remember your cmd should be in that directory where your airline-faker.py file is.
